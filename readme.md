@@ -1,6 +1,11 @@
 # Frontend practice with catalog page
 - [DEMO LINK](https://MykhailoShchuka.github.io/layout_catalog/)
 
+## Technologies used:
+- HTML5
+- SCSS
+- BEM methodology
+
 ## The task
 Create HTML page with catalog. Develop semantic page structure as shown on [the mockup](https://www.figma.com/file/zoFyK6rKrTwCCfKcqjkjnA/Moyo-%2F-Catalog?node-id=0%3A1).
 
